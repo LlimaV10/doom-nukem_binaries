@@ -1,0 +1,1 @@
+../Bin/Linux/doom-nukem_1920x1080 game ../maps/level3
