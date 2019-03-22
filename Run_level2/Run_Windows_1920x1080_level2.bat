@@ -1,0 +1,1 @@
+..\Bin\Windows\doom_nukem_1920x1080.exe game ../maps/level2
