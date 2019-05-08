@@ -1,5 +1,5 @@
 # doom-nukem_binaries
-Compiled and ready to run game binary doom-nukem files
+Compiled and ready to run game binary [doom-nukem](https://github.com/LlimaV10/doom-nukem_v2) files
 
 # Use:
 
