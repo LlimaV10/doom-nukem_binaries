@@ -1,6 +1,12 @@
 # doom-nukem_binaries
 Compiled and ready to run game binary [doom-nukem](https://github.com/LlimaV10/doom-nukem_v2) files
 
+# Run example
+
+cd Run_level1/
+
+./Run_Linux_1280x720.sh
+
 # Use:
 
 Enter in menu
